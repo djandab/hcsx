@@ -1,0 +1,161 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"enhance": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"nodeModules": false,
+		"autoAudits": false,
+		"uglifyFileName": true,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.8.3",
+	"appid": "wx6d77f078dad5fa4d",
+	"projectname": "%E6%B5%B7%E5%B7%9D%E5%B0%9A%E9%80%89",
+	"cloudfunctionTemplateRoot": "",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"scripts": {},
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 4,
+			"list": [
+				{
+					"id": -1,
+					"name": "授权登录",
+					"pathName": "pages/auth/auth",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "我的",
+					"pathName": "pages/user/home",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/profit/profit",
+					"pathName": "pages/profit/profit",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/wsnz/wsnz",
+					"pathName": "pages/wsnz/wsnz",
+					"query": "invite=2130022",
+					"scene": null
+				},
+				{
+					"id": 4,
+					"name": "pages/home/home",
+					"pathName": "pages/dome/dome",
+					"query": "invite=2130022",
+					"scene": null
+				},
+				{
+					"id": 5,
+					"name": "pages/user/home",
+					"pathName": "pages/user/home",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/auth/auth",
+					"pathName": "pages/auth/auth",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/wsnzDetail/wanzDetail",
+					"pathName": "pages/wsnzDetail/wanzDetail",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/friendGet/friendGet",
+					"pathName": "pages/friendGet/friendGet",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/home/home",
+					"pathName": "pages/dome/dome",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 10,
+					"name": "pages/payStatus/payStatus",
+					"pathName": "pages/payStatus/payStatus",
+					"query": "orderId= 2019110739975222332",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/friendGets/friendGets",
+					"pathName": "pages/friendGets/friendGets",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 12,
+					"name": "pages/home/home",
+					"pathName": "pages/home/home",
+					"query": "invite=2130022",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/home/home",
+					"pathName": "pages/home/home",
+					"query": "invite=2130022",
+					"scene": null
+				}
+			]
+		}
+	}
+}
